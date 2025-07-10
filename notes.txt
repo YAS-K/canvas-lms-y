@@ -1,0 +1,5 @@
+in config/locales/ar.yml
+canvas_3962b702: Canvas -> YK Learn Platform
+until 7220
+==================================
+
